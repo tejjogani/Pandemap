@@ -9,3 +9,9 @@ class University(models.Model):
     email = models.EmailField()
     class Meta:
         verbose_name_plural = "Universities"
+
+class Alert(models.Model):
+    university = models.ForeignKey(University, on_delete=models.CASCADE)
+    timestamp = models.DateTimeField(auto_now_add=True)
+    title = models.CharField(max_length=120)
+    body = models.CharField(max_length=5000)
