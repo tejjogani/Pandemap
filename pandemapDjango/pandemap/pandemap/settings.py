@@ -25,7 +25,7 @@ SECRET_KEY = '%0)zuu5#1rde1s$=h%fo9snqa!$h+yohf7u-@qif@a4=iby3kv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pandemap.pythonanywhere.com']
 
 
 # Application definition
@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'rest_framework'
+    'rest_framework',
+    'taggit'
 ]
 
 MIDDLEWARE = [
