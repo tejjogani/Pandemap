@@ -32,7 +32,7 @@ ALLOWED_HOSTS = ['pandemap.pythonanywhere.com']
 
 INSTALLED_APPS = [
     'apps.accounts',
-    'apps.master',
+    'appsaster',
     'apps.student',
     'apps.places',
     'apps.university',
