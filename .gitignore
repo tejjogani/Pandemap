@@ -1,0 +1,6 @@
+# MAC_OS
+.DS_Store
+
+# PYTHON
+*.pyc
+*.pyo
