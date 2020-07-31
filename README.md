@@ -6,16 +6,9 @@ This is the public repository for IBM's call for code submission named Pandemap.
 1. [Demo video](#demo-video)
 1. [The architecture](#the-architecture)
 1. [Longer description](#longer-description)
-1. [Pandemap's Roadmap](#pandemap's-roadmap)
-1. [Getting started](#getting-started)
-1. [Running the tests](#running-the-tests)
-1. [Live demo](#live-demo)
-1. [Built with](#built-with)
-1. [Contributing](#contributing)
-1. [Versioning](#versioning)
-1. [Authors](#authors)
-1. [License](#license)
-1. [Acknowledgments](#acknowledgments)
+1. [Our Roadmap](#our-roadmap)
+1. [Using the Project](#using-the-project)
+1. [Built Using](#built-using)
 
 ## Short Description
 
@@ -49,7 +42,7 @@ Using custom machine learning algorithms powered by IBM's Watson, and location d
 
 [You can look at our longer description here] ()
 
-## Pandemap's Roadmap 
+## Our Roadmap 
 
 
 
@@ -79,7 +72,7 @@ If you have a CCTV link, you can visit this link and enter it into the textbox a
 
 Link: 
 
-## This was built using
+## Built Using
 
 1. IBM Cloud
 2. IBM Object Storage
