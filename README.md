@@ -48,7 +48,7 @@ Using custom machine learning algorithms powered by IBM's Watson, and location d
 
 ## Using the Project
 
-The few prerequisites to get this project running are that you must have React-Native installed. The application we are uploading here is so that you don't necessarily need an account to test out the application. Another **important note** is that since this application relies on both CCTV footage and user's location data and isn't officially deployed **yet**, there isn't much data to actually play with. However, we have footage uploaded that showcases how our app reads from CCTV footage and accurately counts the number of people in a location.
+The few prerequisites to get this project running are that you must have React-Native installed. The application we are uploading here is so that you don't necessarily need an account to test out the application. Another **important note** is that since this application relies on both CCTV footage and user's location data and isn't officially deployed **yet**, there isn't much data to actually play with. However, we have footage uploaded that showcases how our app reads from CCTV footage and accurately counts the number of people in a location. We also have a way for you to try out this API.
 
 If you have read those notes, then you are ready to get started on testing out Pandemap. There are two ways you can try this application:
 
