@@ -26,7 +26,7 @@ Using custom machine learning algorithms powered by IBM's Watson, and location d
 
 ## Demo Video
 
-[![Watch our Video](https://raw.githubusercontent.com/tejjogani/Pandemap/master/resources/thumbnail.jpg)(https://www.youtube.com/watch?v=LsXhzHxnJEc&feature=youtu.be)]
+[![Watch our Video](https://raw.githubusercontent.com/tejjogani/Pandemap/master/resources/thumbnail.jpg)](https://www.youtube.com/watch?v=LsXhzHxnJEc&feature=youtu.be)
 
 ## The Architecture
 
