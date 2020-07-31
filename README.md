@@ -30,7 +30,7 @@ Using custom machine learning algorithms powered by IBM's Watson, and location d
 
 ## The Architecture
 
-![Pandemap Architecture](https://raw.githubusercontent.com/tejjogani/Pandemap/master/src/architecture.png)
+![Pandemap Architecture](https://raw.githubusercontent.com/tejjogani/Pandemap/master/resources/architecture.png)
 
 1. The user interacts with out React-Native Front End and looks for a location.
 2. The application makes a request to our Django-based backend hosted on IBM Cloud to check how crowded that location is.
@@ -44,7 +44,7 @@ Using custom machine learning algorithms powered by IBM's Watson, and location d
 
 ## Our Roadmap 
 
-![Our Roadmap](https://raw.githubusercontent.com/tejjogani/Pandemap/master/src/future.png)
+![Our Roadmap](https://raw.githubusercontent.com/tejjogani/Pandemap/master/resources/future.png)
 
 ## Using the Project
 
