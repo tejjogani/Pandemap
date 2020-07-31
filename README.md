@@ -44,7 +44,7 @@ Using custom machine learning algorithms powered by IBM's Watson, and location d
 
 ## Our Roadmap 
 
-
+![Our Roadmap](https://raw.githubusercontent.com/tejjogani/Pandemap/master/src/future.png)
 
 ## Using the Project
 
