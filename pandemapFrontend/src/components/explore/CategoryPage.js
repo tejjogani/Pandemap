@@ -14,6 +14,7 @@ const findLeastCrowdedPlace = (locations) => {
 }
 
 export default CategoryPage = ({locations, showDetails, toggleModal}) => {
+  console.log('locations', locations)
   return (  
     <View style={{ backgroundColor: '#fff', flex: 1 }}>
           <SectionList
