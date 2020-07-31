@@ -40,7 +40,7 @@ Using custom machine learning algorithms powered by IBM's Watson, and location d
 
 ## Longer Description
 
-[You can look at our longer description here] ()
+[More detail is available here](Description.md)
 
 ## Our Roadmap 
 
