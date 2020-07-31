@@ -70,7 +70,7 @@ react-native run-android #for android
 
 If you have a CCTV link, you can visit this link and enter it into the textbox and click the count button, the webpage should then tell you how many people there are at that instant on that CCTV footage.
 
-Link: 
+Link: http://pandemapproj.eu-gb.cf.appdomain.cloud/place/cc/
 
 ## Built Using
 
