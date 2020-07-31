@@ -5,7 +5,7 @@ This is the public repository for IBM's call for code submission named Pandemap.
 1. [Short description](#short-description)
 1. [Demo video](#demo-video)
 1. [The architecture](#the-architecture)
-1. [Long description](#long-description)
+1. [Longer description](#longer-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
 1. [Running the tests](#running-the-tests)
