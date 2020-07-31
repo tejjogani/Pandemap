@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Pandemap | Crowd Counting</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    </head>
+    <body>
+        <div class="container">
+            <h1>Test the Crowd API For Pandemap</h1>
+            <div class="jumbotron">
+                <form method="POST">
+                    {% csrf_token %}
+                    <div class="form-group">
+                      <label>CCTV Link</label>
+                      <input type="url" class="form-control" name="cctvlink" aria-describedby="cctvLink" placeholder="CCTV Link">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                  </form>
+            </div>
+            <h3> Count: {{ crowd_count }} </h3>
+        </div>
+    </body>
+</html>
