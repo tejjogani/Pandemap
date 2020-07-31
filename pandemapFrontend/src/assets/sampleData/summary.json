@@ -1,0 +1,299 @@
+[
+    {
+        "id": 0,
+        "category": "Libraries",
+        "data": [
+            {
+                "id": 0,
+                "name": "Moffitt Library",
+                "crowding": 0.3,
+                "distance": 20,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://i0.wp.com/www.dailycal.org/assets/uploads/2019/11/study_maddie-fruman_staff.jpg?ssl=1"
+            },
+            {
+                "id": 1,
+                "name": "Doe Library",
+                "crowding": 0.5,
+                "distance": 30,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://pbs.twimg.com/media/CAi0VfLXEAAIUja.jpg:small"
+            },
+            {
+                "id": 2,
+                "name": "Kresge Library",
+                "crowding": 0.62,
+                "distance": 200,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://i1.wp.com/www.dailycal.org/assets/uploads/2019/10/kresge_Sam-Albillo_staff.jpg?ssl=1"
+            },
+            {
+                "id": 3,
+                "name": "Law Library",
+                "crowding": 0.66,
+                "distance": 500,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://s3.amazonaws.com/ArchiveImages/LJ/2012/06/NLLwebBerkeley1.jpg"
+            },
+            {
+                "id": 5,
+                "name": "Anthropology Library",
+                "crowding": 0.78,
+                "distance": 500,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://i2.wp.com/www.dailycal.org/assets/uploads/2018/02/Kroeber-Hall-1-900x600.jpg"
+            },
+            {
+                "id": 6,
+                "name": "BAMPFA Film Library",
+                "crowding": 0.80,
+                "distance": 500,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://static.dezeen.com/uploads/2016/02/uc-berkeley-art-museum-pacific-film-archive-opening_dezeen_1568_2.jpg"
+            },
+            {
+                "id": 7,
+                "name": "Bioscience Library",
+                "crowding": 0.85,
+                "distance": 500,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://i2.wp.com/www.dailycal.org/assets/uploads/2019/07/VLS_Sam-Albillo_staff.jpg?ssl=1"
+            },
+            {
+                "id": 8,
+                "name": "Business Library",
+                "crowding": 0.90,
+                "distance": 500,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://i.insider.com/5e41daa54b661b5d143d4fe4?width=1100&format=jpeg&auto=webp"
+            },
+            {
+                "id": 9,
+                "name": "Career Center Library",
+                "crowding": 0.91,
+                "distance": 500,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://news.berkeley.edu/wp-content/uploads/2017/03/tangcenter750.jpg"
+            },
+            {
+                "id": 10,
+                "name": "East Asian Library",
+                "crowding": 0.98,
+                "distance": 500,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://ieas.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/dsc_5850.png?itok=RL3eN07x&c=8fab5dae95938bea1094dac16eef60b8&timestamp=1559859282"
+            },
+            {
+                "id": 11,
+                "name": "Env. Design Library",
+                "crowding": 0.98,
+                "distance": 500,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://ced.berkeley.edu/images/uploads/content/wurster_library.jpg"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "category": "Rec Sports",
+        "data": [
+            {
+                "id": 0,
+                "name": "Stadium Fitness Center",
+                "crowding": 0.1,
+                "distance": 20,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://studios.com/wp-content/uploads/uc_berkeley_memorial_stadium__training_center_8-702x468.jpg"
+            },
+            {
+                "id": 1,
+                "name": "RSF",
+                "crowding": 0.3,
+                "distance": 30,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://i1.wp.com/www.dailycal.org/assets/uploads/2014/05/RSF-Berkeley.jpg?ssl=1"
+            },
+            {
+                "id": 2,
+                "name": "Spieker Pool",
+                "crowding": 0.6,
+                "distance": 200,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://i1.wp.com/www.dailycal.org/assets/uploads/2018/06/Pool_AmandaRamirez_Staff-900x580.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Hearst Gym",
+                "crowding": 0.8,
+                "distance": 500,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://dac.berkeley.edu/sites/default/files/styles/panopoly_image_spotlight/public/buildings-1_0/buildings-1/Hearst-Gym-Building-Front.jpg?itok=JAunLgFu"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Dining Halls",
+        "data": [
+            {
+                "id": 0,
+                "name": "Foothill Dining",
+                "crowding": 0.2,
+                "distance": 20,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://housing.berkeley.edu/sites/default/files/images/Foothill.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Cafe 3",
+                "crowding": 0.7,
+                "distance": 30,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://i0.wp.com/www.dailycal.org/assets/uploads/2016/08/cafe3_mcnamara-copy.jpg?ssl=1"
+            },
+            {
+                "id": 2,
+                "name": "Crossroads",
+                "crowding": 0.9,
+                "distance": 200,
+                "coordinates": {
+                    "lat": 123,
+                    "lon": 456
+                },
+                "img_url": "https://ww2.kqed.org/bayareabites/wp-content/uploads/sites/24/2014/07/crossroads_interior1000.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Stores",
+        "data": []
+    },
+    {
+        "id": 4,
+        "category": "Cafes",
+        "data": []
+    },
+    {
+        "id": 5,
+        "category": "Boba",
+        "data": [{
+            "id": 0,
+            "name": "Plentea",
+            "crowding": 0.2,
+            "distance": 20,
+            "coordinates": {
+                "lat": 123,
+                "lon": 456
+            },
+            "img_url": "https://s3.amazonaws.com/secretsaucefiles/photos/images/000/096/105/large/DSC_5351.jpg?1484792201"
+        },
+        {
+            "id": 1,
+            "name": "Boba Ninja",
+            "crowding": 0.5,
+            "distance": 30,
+            "coordinates": {
+                "lat": 123,
+                "lon": 456
+            },
+            "img_url": "https://s3-media0.fl.yelpcdn.com/bphoto/PErPbo1vzTTGVTh-PXn16g/348s.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Feng Cha",
+            "crowding": 0.6,
+            "distance": 200,
+            "coordinates": {
+                "lat": 123,
+                "lon": 456
+            },
+            "img_url": "https://i2.wp.com/www.dailycal.org/assets/uploads/2019/09/Feng_Sunny-Shen_staff-copy-900x580.jpg"
+        },
+        {
+            "id": 3,
+            "name": "RareTea",
+            "crowding": 0.8,
+            "distance": 200,
+            "coordinates": {
+                "lat": 123,
+                "lon": 456
+            },
+            "img_url": "https://static.wixstatic.com/media/10da5b_bd505958e0e94b6bbc96a03144cb1c52~mv2_d_4032_3024_s_4_2.jpg"
+        },
+        {
+            "id": 4,
+            "name": "U Cha",
+            "crowding": 0.9,
+            "distance": 200,
+            "coordinates": {
+                "lat": 123,
+                "lon": 456
+            },
+            "img_url": "https://www.uchausa.com/images/img-01.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Yifang Taiwan Fruit",
+            "crowding": 0.9,
+            "distance": 200,
+            "coordinates": {
+                "lat": 123,
+                "lon": 456
+            },
+            "img_url": "https://i0.wp.com/www.dailycal.org/assets/uploads/2018/09/tea_karenchow_ss-900x580.jpg"
+        }
+    ]
+    }
+]
