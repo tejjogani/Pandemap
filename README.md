@@ -25,7 +25,7 @@ With advanced machine learning algorithms and every student having access to a s
 Using custom machine learning algorithms powered by IBM's Watson, and location data, Pandemap calculates the percentage of a place (e.g. a cafe, a library, etc) is full and recommends students other locations to go to in order to help them socially distance while still attempting to maintain the normalcy of univeristy life in this pandemic. For example, if they want to eat at a particular restaurnt, it would look at how full that restaurant is, and if it is crowded, the application would suggest the user to go to another closeby restaurant where social distancing would be possible and safe.
 
 ## Demo Video
-
+**CLICK THE THUMBNAIL BELOW TO WATCH**
 [![Watch our Video](https://raw.githubusercontent.com/tejjogani/Pandemap/master/resources/thumbnail.jpg)](https://www.youtube.com/watch?v=LsXhzHxnJEc&feature=youtu.be)
 
 ## The Architecture
