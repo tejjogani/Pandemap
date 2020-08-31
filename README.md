@@ -5,7 +5,7 @@ This is the public repository for IBM's call for code submission named Pandemap.
 1. [Short description](#short-description)
 1. [Demo video](#demo-video)
 1. [The architecture](#the-architecture)
-1. [Data sources for crowding levels] (#data-sources-for-crowding-levels)
+1. [Data sources for crowding levels](#data-sources-for-crowding-levels)
 1. [Longer description](#longer-description)
 1. [Our Roadmap](#our-roadmap)
 1. [Using the Project](#using-the-project)
