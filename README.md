@@ -4,6 +4,8 @@ This is the public repository for Pandemap, a submission for the IBM Call for Co
 
 Pandemap is a location suggestion system for college students that recommends the least crowded places nearby using computer vision and location data. This README goes in-depth into explaining what the application is, what technologies it uses and how to run the application locally.
 
+![Pandemap Screenshots](https://raw.githubusercontent.com/tejjogani/Pandemap/master/resources/screenshots.png)
+
 1. [Short description](#short-description)
 1. [Demo video](#demo-video)
 1. [The architecture](#the-architecture)
