@@ -38,6 +38,10 @@ Using custom machine learning algorithms powered by IBM's Watson, and location d
 4. If the location is filled over a threshold value, the server sends a response to the front end to redirect the user to another, safer location. 
 5. The routing is done through the HERE Maps API and their flex-polyline module.
 
+## Data Sources for Crowding Levels 
+
+![Data Sources](https://raw.githubusercontent.com/tejjogani/Pandemap/master/resources/pandemap_data_sources.png)
+
 ## Longer Description
 
 [More detail is available here](Description.md)
