@@ -1,6 +1,8 @@
 # Pandemap
 
-This is the public repository for IBM's call for code submission named Pandemap. This README goes in-depth into explaining what the application is, what technologies it uses and how to run the application locally.
+This is the public repository for Pandemap, a submission for the IBM Call for Code 2020. 
+
+Pandemap is a location suggestion app that recommends the least crowded places in and around a college campus using computer vision and location data. This README goes in-depth into explaining what the application is, what technologies it uses and how to run the application locally.
 
 1. [Short description](#short-description)
 1. [Demo video](#demo-video)
