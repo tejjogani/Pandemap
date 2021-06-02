@@ -29,5 +29,5 @@ sqlparse==0.3.1
 static3==0.7.0
 tabulate==0.8.7
 tqdm==4.48.0
-urllib3==1.25.9
+urllib3==1.26.5
 watson-machine-learning-client==1.0.378
